@@ -1,0 +1,11 @@
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe.config
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.pdb
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.AssemblyReference.cache
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.SuggestedBindingRedirects.cache
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.Properties.Resources.resources
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.GenerateResource.cache
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.CoreCompileInputs.cache
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.exe
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.pdb
+C:\MVC\YılanOyunu\YilanOyunu\YilanOyunu\obj\Debug\WinFormSnakeGame.Form1.resources
